@@ -21,6 +21,10 @@ function changeBGcolor(event){
         body.style.background = 'green';
     }
 }
+// task 2c
+function redirectToGoogle(){
+    window.location.assign('http://google.com')
+}
 
 
 
